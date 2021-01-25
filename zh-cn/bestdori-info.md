@@ -86,7 +86,7 @@
 
 *该功能的**Bestdori!自制谱社区 生涯**部分的**最近谱面**数据由**@稳音绫与6QHTSK**提供。*
 
-*如果您想要体验完整功能，欢迎前往：[https://ayachan.fun](https://ayachan.fun)*。
+*如果您想要体验完整功能，欢迎前往[彩绫的工具站](https://ayachan.fun)*。
 
 #### 用途
 

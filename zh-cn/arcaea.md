@@ -43,9 +43,9 @@
 解除绑定。
 
 ### 生成Arcaea Best30信息卡
-> 该功能的API整合自https://redive.estertion.win/arcaea/probe/所使用的查询后端。
+> 该功能的API整合自[Arcaea查分器](https://redive.estertion.win/arcaea/probe/)所使用的查询后端。
 >
-> 如果您想要体验完整功能，欢迎前往：https://redive.estertion.win/arcaea/probe/。
+> 如果您想要体验完整功能，欢迎前往[Arcaea查分器](https://redive.estertion.win/arcaea/probe/)。
 
 #### 用途
 生成对应用户的Best30信息卡。
@@ -123,7 +123,7 @@
 
 其中：
 
-`歌曲名`、`歌曲ID`、`歌曲俗称`参见[查询单曲定数](#查询单曲定数)的同名参数。
+`歌曲名`、`歌曲ID`、`歌曲俗称`参见[查询单曲定数](arcaea#查询单曲定数)的同名参数。
 
 `难度`可以填写难度的全名（即`past`、`present`、`future`、`beyond`），也可填写难度简称（即`pst`、`prs`、`ftr`、`byd`），亦可直接填写难度序号（即`0`、`1`、`2`、`3`）。不填或提供错误的难度，将自动查询**Future**难度的成绩。
 
